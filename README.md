@@ -1,6 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
-![Easybank landing page coding challenge](./design/desktop-preview.jpg)
+![Easybank landing page coding challenge](dist/design/desktop-preview.jpg) 
 
 ## Welcome! 👋
 
